@@ -1,0 +1,7 @@
+set(DATETIME_SRCS
+        DateTime.cpp.cpp
+        )
+
+set(DATETIME_HEADERS
+        ${CMAKE_SOURCE_DIR}/include/DateTime.h
+        )
